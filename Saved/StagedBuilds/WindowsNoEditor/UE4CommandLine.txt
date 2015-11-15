@@ -1,0 +1,1 @@
+../../../MyProject/MyProject.uproject  /Temp/Autosaves/Game/Maps/UEDPCExample_Map -Messaging /Temp/Autosaves/Game/Maps/UEDPCExample_Map -SessionId=39AC2DF64FF52D2F517D648E8724BA8A -SessionOwner=TriNguyen -SessionName='Play On Device'   

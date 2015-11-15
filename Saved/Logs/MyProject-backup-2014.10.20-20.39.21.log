@@ -1,0 +1,269 @@
+﻿Log file open, 10/20/14 20:32:37
+LogInit:Display: Running engine for game: MyProject
+LogInit: Version: 4.5.0-2326478+++depot+UE4-Releases+4.5
+LogInit: API Version: 2326478
+LogInit: Compiled (64-bit): Oct 11 2014 09:24:31
+LogInit: Compiled with Visual C++: 18.00.21005.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++depot+UE4-Releases+4.5
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/
+LogInit: Rocket: 1
+[2014.10.21-01.32.37:260][  0]LogTaskGraph: Started task graph with 3 named threads and 4 total threads.
+[2014.10.21-01.32.37:296][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
+[2014.10.21-01.32.37:341][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[2014.10.21-01.32.37:353][  0]LogInit: Object subsystem initialized
+[2014.10.21-01.32.37:356][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleRule = ShortestSide'
+[2014.10.21-01.32.37:356][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/Tri Nguyen/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2014.10.21-01.32.37:356][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleCurve = (EditorCurveData=(Keys=((Time=480.000000,Value=0.444000),(Time=720.000000,Value=0.666000),(Time=1080.000000,Value=1.000000),(Time=8640.000000,Value=8.000000))),ExternalCurve=None)'
+[2014.10.21-01.32.37:356][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/Tri Nguyen/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2014.10.21-01.32.37:357][  0]LogInit: Selected Device Profile: [Windows]
+[2014.10.21-01.32.37:357][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2014.10.21-01.32.37:362][  0]LogInit: Computer: TRINGUYEN-PC
+[2014.10.21-01.32.37:362][  0]LogInit: User: TriNguyen
+[2014.10.21-01.32.37:363][  0]LogInit: CPU Page size=4096, Cores=4
+[2014.10.21-01.32.37:363][  0]LogInit: High frequency timer resolution =2.143603 MHz
+[2014.10.21-01.32.37:363][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx) Virtual=8192.0GB
+[2014.10.21-01.32.37:363][  0]LogMemory: Platform Memory Stats for Windows
+[2014.10.21-01.32.37:363][  0]LogMemory: Process Physical Memory: 67.05 MB used, 67.05 MB peak
+[2014.10.21-01.32.37:363][  0]LogMemory: Process Virtual Memory: 43.62 MB used, 43.62 MB peak
+[2014.10.21-01.32.37:363][  0]LogMemory: Physical Memory: 3076.16 MB used, 16266.36 MB total
+[2014.10.21-01.32.37:363][  0]LogMemory: Virtual Memory: 278.37 MB used, 8388608.00 MB total
+[2014.10.21-01.32.37:415][  0]LogD3D11RHI: Found D3D11 adapter 0: NVIDIA GeForce GT 640M (Feature Level 11_0)
+[2014.10.21-01.32.37:415][  0]LogD3D11RHI: Adapter has 1990MB of dedicated video memory, 0MB of dedicated system memory, and 2048MB of shared system memory, 1 output[s]
+[2014.10.21-01.32.37:415][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
+[2014.10.21-01.32.37:421][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2014.10.21-01.32.37:439][  0]LogD3D11RHI: Async texture creation enabled
+[2014.10.21-01.32.37:525][  0]LogTextLocalizationManager: The requested culture ('en_US') has no localization data; parent culture's ('en') localization data will be used.
+[2014.10.21-01.32.37:673][  0]LogContentStreaming: Texture pool size is 0.000000MB
+[2014.10.21-01.32.42:843][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.10.21-01.32.43:252][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.10.21-01.32.43:305][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2014.10.21-01.32.43:505][  0]LogDerivedDataCache: Loaded boot cache 0.20s 439MB C:/Users/Tri Nguyen/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc.
+[2014.10.21-01.32.43:505][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Tri Nguyen/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc
+[2014.10.21-01.32.43:505][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Tri Nguyen/Documents/Unreal Projects/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2014.10.21-01.32.43:505][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2014.10.21-01.32.43:577][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/DDC.ddp.
+[2014.10.21-01.32.43:588][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Tri Nguyen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2014.10.21-01.32.43:765][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2014.10.21-01.32.43:765][  0]LogMeshUtilities: No automatic mesh merging module available
+[2014.10.21-01.32.43:986][  0]LogLinker:Warning: Asset '../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2014.10.21-01.32.43:989][  0]LogLinker:Warning: Asset '../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2014.10.21-01.32.44:154][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2014.10.21-01.32.44:883][  0]UdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2014.10.21-01.32.45:062][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for C:/Users/Tri Nguyen/Documents/Unreal Projects/MyProject/Binaries/Win64. Error: 0
+[2014.10.21-01.32.45:186][  0]SourceControl: Info Source control is disabled
+[2014.10.21-01.32.45:186][  0]SourceControl: Info Source control is disabled
+[2014.10.21-01.32.45:192][  0]SourceControl: Info Source control is disabled
+[2014.10.21-01.32.45:301][  0]LogObj: 22915 objects as part of root set at end of initial load.
+[2014.10.21-01.32.45:301][  0]LogUObjectAllocator: 4803536 out of 0 bytes used by permanent object pool.
+[2014.10.21-01.32.45:358][  0]LogEngine: Initializing Engine...
+[2014.10.21-01.32.45:490][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2014.10.21-01.32.45:605][  0]LogInit: FAudioDevice initialized.
+[2014.10.21-01.32.45:637][  0]LogAIModule: Creating AISystem for world NewWorld
+[2014.10.21-01.32.45:708][  0]LogDerivedDataCache: Saved boot cache 0.07s 67MB C:/Users/Tri Nguyen/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc.
+[2014.10.21-01.32.45:712][  0]LogInit: Texture streaming: Enabled
+[2014.10.21-01.32.45:754][  0]LogInit: Transaction tracking system initialized
+[2014.10.21-01.32.45:844][  0]BlueprintLog: New page: Editor Load
+[2014.10.21-01.32.45:874][  0]LogAssetRegistry: FAssetRegistry took 0.0096 seconds to start up
+[2014.10.21-01.32.45:874][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for ../../../Engine/Plugins/Experimental/CharacterAI/Content/. Error: 0
+[2014.10.21-01.32.46:377][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.10.21-01.32.46:707][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.10.21-01.32.46:902][  0]LogConsoleResponse:Display: 
+[2014.10.21-01.32.47:088][  0]SourceControl: Info Source control is disabled
+[2014.10.21-01.32.47:088][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Tri Nguyen/Documents/Unreal Projects/MyProject/Content/Maps/Example_Map.umap" TEMPLATE=0 SHOWPROGRESS=1
+[2014.10.21-01.32.47:089][  0]LightingResults: New page: Lighting Build
+[2014.10.21-01.32.47:097][  0]MapCheck: New page: Map Check
+[2014.10.21-01.32.47:097][  0]LightingResults: New page: Lighting Build
+[2014.10.21-01.32.47:112][  0]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001956DA80
+[2014.10.21-01.32.47:452][  0]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2014.10.21-01.32.47:851][  0]LogTexture:Display: Building textures: HQ_Lightmap0_6 (AutoDXT)
+[2014.10.21-01.32.47:875][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2014.10.21-01.32.47:876][  0]LogAIModule: Creating AISystem for world Example_Map
+[2014.10.21-01.32.47:877][  0]Cmd: MAP CHECKDEP
+[2014.10.21-01.32.47:877][  0]MapCheck: New page: Example_Map - Oct 20, 2014, 3:32:47 PM
+[2014.10.21-01.32.47:966][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 88.699ms to complete.
+[2014.10.21-01.32.47:966][  0]LogFileHelpers: Loading map 'Example_Map' took 0.877
+[2014.10.21-01.32.48:076][  0]LogCollectionManager: Loaded 0 collections in 0.001394 seconds
+[2014.10.21-01.32.48:246][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2014.10.21-01.32.48:269][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2014.10.21-01.32.48:309][  0]LogLoad: Full Startup: 12.18 seconds (BP compile: 0.06 seconds)
+[2014.10.21-01.32.48:660][  0]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/StarterContent/Props'
+[2014.10.21-01.32.48:825][  0]LogRenderer:Warning: Reallocating scene render targets to support 1136x896.
+[2014.10.21-01.32.50:648][  6]LogAssetRegistry: Asset discovery search completed in 4.7838 seconds
+[2014.10.21-01.33.10:303][194]Cmd: MAP IMPORTADD FILE="../../../../../../Users/Tri Nguyen/Documents/Unreal Projects/MyProject/Content/Character/HeroFPP/HeroFPP.uasset"
+[2014.10.21-01.33.10:354][194]MapCheck: New page: Map Check
+[2014.10.21-01.33.10:354][194]LightingResults: New page: Lighting Build
+[2014.10.21-01.33.14:875][278]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character'
+[2014.10.21-01.33.16:265][311]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character/HeroFPP'
+[2014.10.21-01.33.24:203][482]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2014.10.21-01.33.24:203][482]PIE: New page: PIE session: Example_Map (Oct 20, 2014, 3:33:24 PM)
+[2014.10.21-01.33.24:241][482]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037651s)
+[2014.10.21-01.33.24:242][482]LogPlayLevel: PIE: World Init took: (0.000821s)
+[2014.10.21-01.33.24:242][482]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.038686s)
+[2014.10.21-01.33.24:661][482]BlueprintLog:Warning: Warning Blueprint MyProjectile has been migrated and requires re-saving to avoid import errors
+[2014.10.21-01.33.24:662][482]BlueprintLog:Warning: Warning Blueprint MyHUD has been migrated and requires re-saving to avoid import errors
+[2014.10.21-01.33.24:662][482]BlueprintLog:Warning: Warning Blueprint MyGame has been migrated and requires re-saving to avoid import errors
+[2014.10.21-01.33.24:664][482]LogWorld: Game class is 'MyGame_C'
+[2014.10.21-01.33.24:667][482]LogAIModule: Creating AISystem for world Example_Map
+[2014.10.21-01.33.24:671][482]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 60) at 2014.10.20-20.33.24
+[2014.10.21-01.33.24:673][482]LogWorld: Bringing up level for play took: 0.005924
+[2014.10.21-01.33.24:676][482]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Example_Map 1.224
+[2014.10.21-01.33.25:634][504]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000004E65940
+[2014.10.21-01.33.51:168][116]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints'
+[2014.10.21-01.33.51:785][126]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character'
+[2014.10.21-01.33.52:493][136]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character/HeroFPP'
+[2014.10.21-01.33.54:276][179]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character'
+[2014.10.21-01.34.09:747][414]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/StarterContent/Blueprints'
+[2014.10.21-01.34.17:940][605]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/StarterContent/Blueprints/Assets'
+[2014.10.21-01.34.27:581][873]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character'
+[2014.10.21-01.34.28:122][882]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints'
+[2014.10.21-01.34.35:523][  2]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
+[2014.10.21-01.34.37:443][ 51]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints'
+[2014.10.21-01.34.41:222][110]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/StarterContent/Blueprints'
+[2014.10.21-01.34.43:737][172]LogContentBrowser:Verbose: The content browser source was changed by the sources view to 'None'
+[2014.10.21-01.34.46:094][225]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character'
+[2014.10.21-01.34.47:574][247]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints'
+[2014.10.21-01.35.03:191][510]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_0) Not registered. Aborting.
+[2014.10.21-01.35.03:191][510]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_0) Not registered. Aborting.
+[2014.10.21-01.35.03:245][510]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001AE4EB60
+[2014.10.21-01.35.03:245][510]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002A414400
+[2014.10.21-01.35.03:245][510]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001B479760
+[2014.10.21-01.35.03:936][510]LogSavePackage: Save=500.005371ms
+[2014.10.21-01.35.03:936][510]LogSavePackage: Moving '../../../../../../Users/Tri Nguyen/Documents/Unreal Projects/MyProject/Saved/Example_MapF8DE0B55421C767323CDAA82EE7256E8.tmp' to '../../../../../../Users/Tri Nguyen/Documents/Unreal Projects/MyProject/Content/Maps/Example_Map.umap'
+[2014.10.21-01.35.03:962][510]LogFileHelpers: Saving map 'Example_Map' took 0.688
+[2014.10.21-01.35.03:985][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MyCharacter" FILE="../../../../../../Users/Tri Nguyen/Documents/Unreal Projects/MyProject/Content/Blueprints/MyCharacter.uasset" SILENT=true
+[2014.10.21-01.35.04:364][510]LogSavePackage: Save=368.676941ms
+[2014.10.21-01.35.04:364][510]LogSavePackage: Moving '../../../../../../Users/Tri Nguyen/Documents/Unreal Projects/MyProject/Saved/MyCharacter7252B85741F439720FCE088E76C8688A.tmp' to '../../../../../../Users/Tri Nguyen/Documents/Unreal Projects/MyProject/Content/Blueprints/MyCharacter.uasset'
+[2014.10.21-01.35.06:544][556]BlueprintLog: New page: Pre-PIE auto-recompile
+[2014.10.21-01.35.06:544][556]LogPlayLevel: [PIE] Compiling MyCharacter before PIE...
+[2014.10.21-01.35.06:622][556]LogPlayLevel: [PIE] Compiling Tutorial_BP_MacroLib before PIE...
+[2014.10.21-01.35.06:669][556]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_1) Not registered. Aborting.
+[2014.10.21-01.35.06:690][556]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000025397EC0
+[2014.10.21-01.35.06:693][556]LogPlayLevel: PIE:  Blueprint regeneration took 148 ms (2 blueprints)
+[2014.10.21-01.35.06:693][556]PIE: New page: PIE session: Example_Map (Oct 20, 2014, 3:35:06 PM)
+[2014.10.21-01.35.06:724][556]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030749s)
+[2014.10.21-01.35.06:724][556]LogPlayLevel: PIE: World Init took: (0.000507s)
+[2014.10.21-01.35.06:724][556]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.031434s)
+[2014.10.21-01.35.06:753][556]LogWorld: Game class is 'MyGame_C'
+[2014.10.21-01.35.06:755][556]LogAIModule: Creating AISystem for world Example_Map
+[2014.10.21-01.35.06:758][556]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 60) at 2014.10.20-20.35.06
+[2014.10.21-01.35.06:760][556]LogWorld: Bringing up level for play took: 0.004624
+[2014.10.21-01.35.06:762][556]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Example_Map -0.692
+[2014.10.21-01.35.15:811][824]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_2) Not registered. Aborting.
+[2014.10.21-01.35.15:899][825]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000025977380
+[2014.10.21-01.35.29:531][ 98]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2014.10.21-01.35.29:531][ 98]PIE: New page: PIE session: Example_Map (Oct 20, 2014, 3:35:29 PM)
+[2014.10.21-01.35.29:587][ 98]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056150s)
+[2014.10.21-01.35.29:588][ 98]LogPlayLevel: PIE: World Init took: (0.000855s)
+[2014.10.21-01.35.29:588][ 98]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.057291s)
+[2014.10.21-01.35.29:620][ 98]LogWorld: Game class is 'MyGame_C'
+[2014.10.21-01.35.29:623][ 98]LogAIModule: Creating AISystem for world Example_Map
+[2014.10.21-01.35.29:629][ 98]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 60) at 2014.10.20-20.35.29
+[2014.10.21-01.35.29:632][ 98]LogWorld: Bringing up level for play took: 0.008208
+[2014.10.21-01.35.29:636][ 98]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Example_Map 0.181
+[2014.10.21-01.35.49:510][646]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000249F6E80
+[2014.10.21-01.35.58:617][836]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight_5)
+[2014.10.21-01.35.58:797][838]Cmd: DELETE
+[2014.10.21-01.35.58:797][838]Cmd: ACTOR DELETE
+[2014.10.21-01.35.58:800][838]LogEditorActor: Deleted Actor: PointLight
+[2014.10.21-01.35.58:845][838]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2014.10.21-01.36.01:373][898]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight_4)
+[2014.10.21-01.36.01:933][910]Cmd: DELETE
+[2014.10.21-01.36.01:933][910]Cmd: ACTOR DELETE
+[2014.10.21-01.36.01:935][910]LogEditorActor: Deleted Actor: PointLight
+[2014.10.21-01.36.02:018][910]LogEditorActor: Deleted 1 Actors (0.085 secs)
+[2014.10.21-01.36.03:775][951]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight_3)
+[2014.10.21-01.36.04:020][955]Cmd: DELETE
+[2014.10.21-01.36.04:020][955]Cmd: ACTOR DELETE
+[2014.10.21-01.36.04:024][955]LogEditorActor: Deleted Actor: PointLight
+[2014.10.21-01.36.04:065][955]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2014.10.21-01.36.10:304][ 91]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight_2)
+[2014.10.21-01.36.11:089][108]Cmd: DELETE
+[2014.10.21-01.36.11:089][108]Cmd: ACTOR DELETE
+[2014.10.21-01.36.11:091][108]LogEditorActor: Deleted Actor: PointLight
+[2014.10.21-01.36.11:174][108]LogEditorActor: Deleted 1 Actors (0.085 secs)
+[2014.10.21-01.36.40:809][856]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_1) Not registered. Aborting.
+[2014.10.21-01.36.40:809][856]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_3) Not registered. Aborting.
+[2014.10.21-01.36.48:935][  3]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_4) Not registered. Aborting.
+[2014.10.21-01.37.10:359][564]LogEditorTransaction: Undo Modify Component(s)
+[2014.10.21-01.37.10:499][564]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_5) Not registered. Aborting.
+[2014.10.21-01.37.10:499][564]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_2) Not registered. Aborting.
+[2014.10.21-01.37.26:854][ 29]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character/HeroFPP'
+[2014.10.21-01.37.28:888][ 65]LogLinker:Warning: Can't find file '/Game/Characters/Materials/HeroTPP'
+[2014.10.21-01.37.28:888][ 65]LogLinker:Warning: Can't find file for asset '/Game/Characters/Materials/HeroTPP' while loading ../../../../../../Users/Tri Nguyen/Documents/Unreal Projects/MyProject/Content/Character/HeroFPP/HeroFPP.uasset.
+[2014.10.21-01.37.28:888][ 65]LoadErrors:Error: Error /Game/Character/HeroFPP/HeroFPP : Can't find file for asset. /Game/Characters/Materials/HeroTPP
+[2014.10.21-01.37.28:888][ 65]LogLinker:Warning: Can't find file '/Game/Characters/HeroFPP/HeroFPP_Skeleton'
+[2014.10.21-01.37.28:889][ 65]LogLinker:Warning: Can't find file for asset '/Game/Characters/HeroFPP/HeroFPP_Skeleton' while loading ../../../../../../Users/Tri Nguyen/Documents/Unreal Projects/MyProject/Content/Character/HeroFPP/HeroFPP.uasset.
+[2014.10.21-01.37.28:889][ 65]LoadErrors:Error: Error /Game/Character/HeroFPP/HeroFPP : Can't find file for asset. /Game/Characters/HeroFPP/HeroFPP_Skeleton
+[2014.10.21-01.37.28:889][ 65]LogLinker:Warning: Can't find file '/Game/Characters/Materials/HeroTPP'
+[2014.10.21-01.37.28:889][ 65]LogLinker:Warning: Can't find file for asset '/Game/Characters/Materials/HeroTPP' while loading ../../../../../../Users/Tri Nguyen/Documents/Unreal Projects/MyProject/Content/Character/HeroFPP/HeroFPP.uasset.
+[2014.10.21-01.37.28:889][ 65]LogLinker:Warning: Can't find file '/Game/Characters/HeroFPP/HeroFPP_Skeleton'
+[2014.10.21-01.37.28:890][ 65]LogLinker:Warning: Can't find file for asset '/Game/Characters/HeroFPP/HeroFPP_Skeleton' while loading ../../../../../../Users/Tri Nguyen/Documents/Unreal Projects/MyProject/Content/Character/HeroFPP/HeroFPP.uasset.
+[2014.10.21-01.37.28:890][ 65]LogLinker:Warning: Can't find file '/Game/Characters/HeroFPP/HeroFPP_Skeleton'
+[2014.10.21-01.37.28:890][ 65]LoadErrors: Info Failed to load /Game/Characters/HeroFPP/HeroFPP_Skeleton.HeroFPP_Skeleton Referenced by HeroFPP Property /Script/Engine.SkeletalMesh:Skeleton
+[2014.10.21-01.37.28:890][ 65]LogLinker:Warning: Can't find file for asset '/Game/Characters/HeroFPP/HeroFPP_Skeleton' while loading NULL.
+[2014.10.21-01.37.28:891][ 65]LogLinker:Warning: Can't find file '/Game/Characters/Materials/HeroTPP'
+[2014.10.21-01.37.28:891][ 65]LoadErrors: Info Failed to load /Game/Characters/Materials/HeroTPP.HeroTPP Referenced by HeroFPP
+[2014.10.21-01.37.28:891][ 65]LogLinker:Warning: Can't find file for asset '/Game/Characters/Materials/HeroTPP' while loading NULL.
+[2014.10.21-01.37.30:976][100]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_6) Not registered. Aborting.
+[2014.10.21-01.37.30:976][100]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_3) Not registered. Aborting.
+[2014.10.21-01.38.44:122][785]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2014.10.21-01.38.47:283][873]LogRenderer:Warning: Reallocating scene render targets to support 1616x896.
+[2014.10.21-01.39.03:850][162]LogContentBrowser:Verbose: The content browser source was changed by the sources view to 'None'
+[2014.10.21-01.39.03:850][162]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character'
+[2014.10.21-01.39.11:133][359]LogCrashTracker: 
+
+
+[2014.10.21-01.39.12:116][359]LogCrashTracker: 
+
+
+[2014.10.21-01.39.12:117][359]LogWindows: === Critical error: ===
+Fatal error!
+
+Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x00000020
+
+UE4Editor-CoreUObject.dll!UnknownFunction (0x000007fee6df10b0) + 0 bytes [UnknownFile:0]
+UE4Editor-CoreUObject.dll!UnknownFunction (0x000007fee6d152bb) + 0 bytes [UnknownFile:0]
+UE4Editor-Engine.dll!UnknownFunction (0x000007fee1e8ddc0) + 0 bytes [UnknownFile:0]
+UE4Editor-Engine.dll!UnknownFunction (0x000007fee1e746bf) + 0 bytes [UnknownFile:0]
+UE4Editor-CoreUObject.dll!UnknownFunction (0x000007fee6da3e3d) + 0 bytes [UnknownFile:0]
+UE4Editor-PropertyEditor.dll!UnknownFunction (0x000007fedefcac6e) + 0 bytes [UnknownFile:0]
+UE4Editor-PropertyEditor.dll!UnknownFunction (0x000007fedefa47b7) + 0 bytes [UnknownFile:0]
+UE4Editor-PropertyEditor.dll!UnknownFunction (0x000007fedefa4be3) + 0 bytes [UnknownFile:0]
+UE4Editor-PropertyEditor.dll!UnknownFunction (0x000007fedf02664a) + 0 bytes [UnknownFile:0]
+UE4Editor-PropertyEditor.dll!UnknownFunction (0x000007fedf03027f) + 0 bytes [UnknownFile:0]
+UE4Editor-PropertyEditor.dll!UnknownFunction (0x000007fedf030b1a) + 0 bytes [UnknownFile:0]
+UE4Editor-PropertyEditor.dll!UnknownFunction (0x000007fedef45a68) + 0 bytes [UnknownFile:0]
+UE4Editor-PropertyEditor.dll!UnknownFunction (0x000007fedef4f1ad) + 0 bytes [UnknownFile:0]
+UE4Editor-PropertyEditor.dll!UnknownFunction (0x000007fedefccd06) + 0 bytes [UnknownFile:0]
+UE4Editor-PropertyEditor.dll!UnknownFunction (0x000007fedef45d18) + 0 bytes [UnknownFile:0]
+UE4Editor-PropertyEditor.dll!UnknownFunction (0x000007fedef4f4bd) + 0 bytes [UnknownFile:0]
+UE4Editor-ContentBrowser.dll!UnknownFunction (0x000007fed935ec68) + 0 bytes [UnknownFile:0]
+UE4Editor-ContentBrowser.dll!UnknownFunction (0x000007fed93c2331) + 0 bytes [UnknownFile:0]
+UE4Editor-ContentBrowser.dll!UnknownFunction (0x000007fed93cbc66) + 0 bytes [UnknownFile:0]
+UE4Editor-ContentBrowser.dll!UnknownFunction (0x000007fed93c7f81) + 0 bytes [UnknownFile:0]
+UE4Editor-ContentBrowser.dll!UnknownFunction (0x000007fed9459695) + 0 bytes [UnknownFile:0]
+UE4Editor-ContentBrowser.dll!UnknownFunction (0x000007fed944790b) + 0 bytes [UnknownFile:0]
+UE4Editor-Slate.dll!UnknownFunction (0x000007fee54a8b4c) + 0 bytes [UnknownFile:0]
+UE4Editor-Slate.dll!UnknownFunction (0x000007fee5498b26) + 0 bytes [UnknownFile:0]
+UE4Editor-Core.dll!UnknownFunction (0x000007fee5a83e89) + 0 bytes [UnknownFile:0]
+UE4Editor-Core.dll!UnknownFunction (0x000007fee5a7629b) + 0 bytes [UnknownFile:0]
+UE4Editor-Core.dll!UnknownFunction (0x000007fee5a85009) + 0 bytes [UnknownFile:0]
+UE4Editor-Core.dll!UnknownFunction (0x000007fee5a73532) + 0 bytes [UnknownFile:0]
+USER32.dll!UnknownFunction (0x0000000077289bd1) + 0 bytes [UnknownFile:0]
+USER32.dll!UnknownFunction (0x00000000772898da) + 0 bytes [UnknownFile:0]
+UE4Editor-Core.dll!UnknownFunction (0x000007fee5b22ec6) + 0 bytes [UnknownFile:0]
+UE4Editor.exe!FEngineLoop::Tick() (0x000000013f5ea752) + 8 bytes [d:\buildfarm\buildmachine_++depot+ue4-releases+4.5\engine\source\runtime\launch\private\launchengineloop.cpp:2111]
+UE4Editor.exe!GuardedMain() (0x000000013f5df9df) + 0 bytes [d:\buildfarm\buildmachine_++depot+ue4-releases+4.5\engine\source\runtime\launch\private\launch.cpp:133]
+UE4Editor.exe!GuardedMainWrapper() (0x000000013f5dfa4a) + 5 bytes [d:\buildfarm\buildmachine_++depot+ue4-releases+4.5\engine\source\runtime\launch\private\windows\launchwindows.cpp:125]
+UE4Editor.exe!WinMain() (0x000000013f5ebf19) + 17 bytes [d:\buildfarm\buildmachine_++depot+ue4-releases+4.5\engine\source\runtime\launch\private\windows\launchwindows.cpp:201]
+UE4Editor.exe!__tmainCRTStartup() (0x000000013f5ecdc9) + 21 bytes [f:\dd\vctools\crt\crtw32\dllstuff\crtexe.c:618]
+kernel32.dll!UnknownFunction (0x00000000773859ed) + 0 bytes [UnknownFile:0]
+ntdll.dll!UnknownFunction (0x00000000774bc541) + 0 bytes [UnknownFile:0]
+ntdll.dll!UnknownFunction (0x00000000774bc541) + 0 bytes [UnknownFile:0]
+
+
+[2014.10.21-01.39.12:286][359]LogExit: Executing StaticShutdownAfterError
+[2014.10.21-01.39.12:295][359]LogWindows: FPlatformMisc::RequestExit(1)
+[2014.10.21-01.39.12:295][359]Log file closed, 10/20/14 20:39:12
